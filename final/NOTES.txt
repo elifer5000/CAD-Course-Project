@@ -1,5 +1,5 @@
 /*************************************************************
- CAD Systems Project. Elias Cohenca. Student Number: 015257231
+ CAD Systems Project. Elias Cohenca
  
  NOTES: Use the up & down directional keys to zoom in & out
 		Select a gear with Ctrl key pressed to make it 
