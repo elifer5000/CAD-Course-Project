@@ -1,4 +1,4 @@
-# CAD Systems Course Project
+# CAD Systems Course Project (2006)
  
 Loads an OFF model and displays it using OpenGL.
 
